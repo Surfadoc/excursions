@@ -4,7 +4,9 @@ body {
     background-color: black;
     color: white;
 }
-
+p img{
+    text-align: center;
+}
 h1 {
     font-size: 50px;
 }
